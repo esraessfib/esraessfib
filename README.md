@@ -5,6 +5,7 @@
 👩‍💻 Specializing in Embedded Systems, Computer Vision, AI, and IoT<br/>
 💡 Passionate about building innovative projects in my areas of expertise<br/>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/isra-safi-bouteraa-a04574298)
+                     israsafibouteraa@gmail.com
 
 
 # 💻 Tech Stack:
