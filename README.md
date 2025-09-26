@@ -4,14 +4,22 @@
 👩‍💻 Specializing in Embedded Systems, Computer Vision, AI, and IoT  
 💡 Passionate about building innovative projects in my areas of expertise  
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/isra-safibouteraa) | israsafibouteraa@gmail.com
-
-
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isra-safibouteraa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:israsafibouteraa@gmail.com)
+
+## 💻 Tech Stack
+
+| Programming Languages | Data Science & AI | Embedded & IoT |
+|----------------------|-------------------|----------------|
+| ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white) |
+| ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) |  |
+|  | ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) |  |
+|  | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white) |  |
+
 
 ## 💻 Tech Stack
 
