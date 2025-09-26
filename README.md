@@ -6,8 +6,8 @@
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isra-safibouteraa)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esraessfib)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isra-safi-bouteraa-a04574298)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:israsafibouteraa@gmail.com)
 
 ## 💻 Tech Stack
@@ -22,21 +22,12 @@
 |  | ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) |  |
 
 
-
-## 🚀 Areas of Expertise
-
-- **Embedded Systems** 
-- **Computer Vision** - Image processing, object detection, pattern recognition
-- **Artificial Intelligence** - Machine learning, neural networks, deep learning
-- **Internet of Things (IoT)** - Connected devices, sensor networks, smart systems
-
 ## 📈 GitHub Stats
 
 ![Isra's GitHub stats](https://github-readme-stats.vercel.app/api?username=esraessfib&show_icons=true&theme=radical)
 
 ---
 
-⭐️ From [Isra](https://github.com/esraessfib)
 
 
 
