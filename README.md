@@ -12,7 +12,7 @@
 
 ## 💻 Tech Stack
 
-| Programming Languages | computer vision & AI | Embedded & IoT |
+| Programming Languages | Computer vision & AI | Embedded & IoT |
 |----------------------|-----------------------|----------------|
 | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white) |
 | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white) |
